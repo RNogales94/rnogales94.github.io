@@ -16,3 +16,5 @@ Una de internet:
 
 Y otra de la carpeta de imagenes (clasificandolas por posts para que sea más fácil luego)
 ![Alt de la imagen]({{ site.baseurl }}/images/Sobre-el-blog/whatsapp-vs-telegram.png)
+
+Akgi
